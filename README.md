@@ -1,3 +1,3 @@
 # Telegram Wallet Tracker
 
-Bot Telegram qui surveille des adresses Ethereum et envoie une alerte à chaque nouvelle transaction.
+Telegram bot who check specific Ethereum public Adress and send it to a telegram channel
